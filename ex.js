@@ -63,3 +63,5 @@ var x = 5;
 
 // adding comment just to create version 2 for git study
 console.log(typeof NaN);
+
+// adding comment just to create version 3 for git study
