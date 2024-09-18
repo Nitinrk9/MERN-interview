@@ -1,0 +1,16 @@
+
+A WeakMap is a collection of key/value pairs where the keys are objects and values are any JavaScript object.
+
+	It is similar to Map with some differences:
+
+		It is not enumerable and the keys are private in nature.
+		Allows garbage collection of any values if keys are not referenced from somewhere other than a WeakMap.
+		Only objects are allowed as keys.
+		It depends on garbage collection, introducing non-determinism.
+		
+	Instance methods: It has 4 instance methods.
+
+		WeakMap.prototype.delete( key ): It removes any value with the given key. 
+		WeakMap.prototype.get( key ): It returns the value with the given key, else undefined.
+		WeakMap.prototype.has( key ): It returns a boolean value whether a value is a WeakMap object or not.
+		WeakMap.prototype.set( key, value ): It sets the value of the given key in the WeakMap object.
