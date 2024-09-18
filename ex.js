@@ -60,4 +60,6 @@ var x = 5;
   var x = 10;
   console.log(x);
 })();
+
+// adding comment just to create version 2 for git study
 console.log(typeof NaN);
