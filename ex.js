@@ -65,3 +65,5 @@ var x = 5;
 console.log(typeof NaN);
 
 // adding comment just to create version 3 for git study
+
+// adding comment to learn undo changes various cases. this is version 4
