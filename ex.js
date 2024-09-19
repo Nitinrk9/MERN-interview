@@ -69,3 +69,4 @@ console.log(typeof NaN);
 // adding comment to learn undo changes various cases. this is version 4
 
 // Version 5 after commiting local files to remote repo on github
+//version 6 added for pull request testing
